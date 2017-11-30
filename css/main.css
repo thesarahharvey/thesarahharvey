@@ -45,13 +45,13 @@ h1 {
  * Customize the background color to match your design.
  */
 
-::-moz-selection {
-    background: #f9f1e2;
+body {
+    background-color: #f9f1e2;
     text-shadow: none;
 }
 
 ::selection {
-    background: #f9f1e2;
+    background-color: #f9f1e2;
     text-shadow: none;
 }
 
