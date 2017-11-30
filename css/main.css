@@ -45,7 +45,7 @@ h1 {
  * Customize the background color to match your design.
  */
 
-body {
+::-moz-selection {
     background-color: #f9f1e2;
     text-shadow: none;
 }
